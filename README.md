@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, TypeScript and Angular.**
 
-- ⚡ Fun fact **I have a pet hedgehog and she is very cute!🥰**
+- ⚡ Fun fact- **I have a pet hedgehog and she is very cute!🥰**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
